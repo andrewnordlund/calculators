@@ -1,3 +1,6 @@
 [submodule "backpayCalc"]
 	path = backpayCalc
 	url = git@github.com:andrewnordlund/backpayCalc.git
+[submodule "taxCalc"]
+	path = taxCalc
+	url = https://github.com/andrewnordlund/taxCalc.git
