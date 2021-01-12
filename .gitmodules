@@ -4,3 +4,6 @@
 [submodule "taxCalc"]
 	path = taxCalc
 	url = https://github.com/andrewnordlund/taxCalc.git
+[submodule "revmortCalc"]
+	path = revmortCalc
+	url = git@github.com:andrewnordlund/revmortCalc.git
